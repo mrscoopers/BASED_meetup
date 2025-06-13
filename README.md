@@ -27,3 +27,6 @@ BASED Meetup is where professionals & enthusiasts discuss the **latest trends, b
 
 ### 20th of March
 https://lu.ma/1ioiikry 
+
+### 12th of June
+https://lu.ma/cyelt1n6
