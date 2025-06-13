@@ -18,6 +18,8 @@ BASED Meetup is where professionals & enthusiasts discuss the **latest trends, b
 ​No sales pitches, no gatekeeping — just an open space to share ideas, learn from each other, and explore the technologies shaping the future of search.
 ​Whether you're building production systems, researching search algorithms, or just curious about the field, **you're welcome here**.
 
+💬 @based_meetup in Telegram
+
 ### Organizers
 [Evgeniya Sukhodolskaya](https://www.linkedin.com/in/evgeniya-sukhodolskaya/), Developer Advocate, Qdrant
 
