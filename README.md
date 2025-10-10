@@ -32,3 +32,6 @@ https://lu.ma/1ioiikry
 
 ### 12th of June
 https://lu.ma/cyelt1n6
+
+### 9th of October
+https://luma.com/cno8y0pv
