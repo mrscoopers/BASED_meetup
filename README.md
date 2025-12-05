@@ -2,7 +2,7 @@
 
 <img src="BASED_logo.png" alt="BASED logo" width="400"/>
 
-🔗 https://based-meetup.de/
+🔗 https://based-meetup.de/  
 💬 @based_meetup in Telegram
 
 Search is evolving fast: from new algorithms and tools to AI-driven solutions, the field is constantly shifting. 
