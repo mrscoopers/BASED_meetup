@@ -2,8 +2,7 @@
 
 <img src="BASED_logo.png" alt="BASED logo" width="400"/>
 
-🔗 https://based-meetup.de/  
-💬 @based_meetup in Telegram
+### About
 
 Search is evolving fast: from new algorithms and tools to AI-driven solutions, the field is constantly shifting. 
 BASED Meetup is where professionals & enthusiasts discuss the **latest trends, breakthroughs and challenges in modern search**.
@@ -22,20 +21,24 @@ BASED Meetup is where professionals & enthusiasts discuss the **latest trends, b
 ​Whether you're building production systems, researching search algorithms, or just curious about the field, **you're welcome here**.
 
 ### Organizers
-[Evgeniya Sukhodolskaya](https://www.linkedin.com/in/evgeniya-sukhodolskaya/), Developer Advocate, Qdrant
+[Evgeniya Sukhodolskaya](https://www.linkedin.com/in/evgeniya-sukhodolskaya/), Senior Developer Advocate, Qdrant
 
 [Daniel Wrigley](https://www.linkedin.com/in/wrigleydaniel/), Search Consultant, OpenSource Connections
 
+### Contact Us
+
+In case you want to present, attend or sponsor:
+
+🔗 [Website](https://based-meetup.de/)  
+� [lu.ma calendar](https://luma.com/based_meetup)  
+💬 [@based_meetup](https://t.me/based_meetup) on Telegram
+
 # Events
 
-### 20th of March
-https://lu.ma/1ioiikry 
-
-### 12th of June
-https://lu.ma/cyelt1n6
-
-### 9th of October
-https://luma.com/cno8y0pv
-
-### 4th of December
-https://luma.com/ks7f1jx3
+| Date | Link |
+|------|------|
+| 20th of March 2025 | https://lu.ma/1ioiikry |
+| 12th of June 2025 | https://lu.ma/cyelt1n6 |
+| 9th of October 2025 | https://luma.com/cno8y0pv |
+| 4th of December 2025 | https://luma.com/ks7f1jx3 |
+| 26th of March 2026 | https://luma.com/1nbe5h87 |
