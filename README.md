@@ -42,3 +42,4 @@ In case you want to present, attend or sponsor:
 | 9th of October 2025 | https://luma.com/cno8y0pv |
 | 4th of December 2025 | https://luma.com/ks7f1jx3 |
 | 26th of March 2026 | https://luma.com/1nbe5h87 |
+| 23rd of July 2026 | https://luma.com/mnh67d5m |
